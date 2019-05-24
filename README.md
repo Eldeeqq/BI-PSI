@@ -1,4 +1,4 @@
-# BI-PSI LS19
+# BI-PSI 
 
 Semestral work for computer networking course @FITCTU.
 Simple multithreaded text based tcp server which navigates "robots" 
